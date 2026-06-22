@@ -1,44 +1,3 @@
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,5,30&height=300&section=header&text=Shivam%20Kumar&fontSize=90&fontAlignY=40&animation=twinkling&desc=Data%20Science%20Enthusiast%20|%20Java%20•%20SQL%20•%20Power%20BI%20|%20Learning%20by%20Building&descAlignY=55&descAlign=50" />
-</div>
-
-<h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">Data Science Enthusiast | Java & SQL | Power BI | Learning by Building</h3>
-
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar1578" alt="shivamkumar1578" /></a> </p>
-
-🧩 I enjoy finding order in complexity—whether it's hidden in datasets, algorithms, or real-world problems.
-   - ⚡ Bridging Data Analytics, Machine Learning, and Software Engineering to create practical solutions.
-   - 🛠️ Working with SQL, Python, Power BI, Excel, Pandas, NumPy, Java, and Data Structures & Algorithms.
-   - 📊 Interested in analytics, automation, predictive modeling, and data-driven product development.
-   - 🌱 Currently learning Advanced SQL, Machine Learning, Data Engineering, and Scalable Systems.
-   - 🤝 Open to collaborations, internships, and opportunities in Data Analytics, Data Science, and Software Development.
-   - 💬 Ask me about SQL • Python • Power BI • Excel • Pandas • Machine Learning • DSA • Java
-   - 📫 Reach me at: shivamkumarshinu985@gmail.com
-- ⚡ Fun fact **I turn coffee into Java code ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamkumar003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamkumar003/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/144111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="144111" height="30" width="40" /></a>
-</p>
-<h2 align="center"> LeetCode Progress  </h2>
-
-
-
-<img src="https://leetcard.jacoblin.cool/Shivam_kumar_1578?theme=dark&font=Karma&ext=heatmap" />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkumar1578&" alt="shivamkumar1578" /></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" /> -->
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,5,30&height=300&section=header&text=Shivam%20Kumar&fontSize=90&fontAlignY=40&animation=twinkling&desc=Data%20Analyst%20%7C%20Aspiring%20Data%20Scientist%20%7C%20CSE%20%40%20LPU&descAlignY=55&descAlign=50" />
 </div>
@@ -54,15 +13,16 @@
   </a>
 </p>
 
-- 🔭 Currently working on **[HR Attrition Analytics Dashboard](https://github.com/shivamkumar1578/workforce-analytics-dashboard)** — analyzed 15,000+ employee records
-- 🤖 Built **[End-to-End Customer Churn Analysis](https://github.com/shivamkumar1578/end-to-end-churn-analysis)** — achieved 91% ROC-AUC across 4 ML models
-- 🔍 Built **[Smart Knowledge Search Engine](https://github.com/shivamkumar1578/Smart_Knowledge_SearchEngine)** — Trie-based search with 60% speed improvement
-- 🌱 Currently learning **Advanced SQL, Machine Learning, Data Pipelines, and Statistical Analysis**
-- 👯 Open to collaborate on **Data Analytics, Business Intelligence, and ML Projects**
-- 💬 Ask me about **SQL · Python · Power BI · Excel · Pandas · EDA · Machine Learning · DSA · Java**
-- 📫 Reach me at **shivamkumarshaurya@gmail.com**
-- 🎯 Open to **Data Analyst** roles — India / Remote
-- ⚡ Fun fact — *I solve problems with data by day and DSA by night ☕*
+🧩 I enjoy finding order in complexity—whether it's hidden in datasets, algorithms, or real-world problems.
+   - ⚡ Bridging Data Analytics, Machine Learning, and Software Engineering to create practical solutions.
+   - 🛠️ Working with SQL, Python, Power BI, Excel, Pandas, NumPy, Java, and Data Structures & Algorithms.
+   - 📊 Interested in analytics, automation, predictive modeling, and data-driven product development.
+   - 🌱 Currently learning Advanced SQL, Machine Learning, Data Engineering, and Scalable Systems.
+   - 🤝 Open to collaborations, internships, and opportunities in Data Analytics, Data Science, and Software Development.
+   - 💬 Ask me about SQL • Python • Power BI • Excel • Pandas • Machine Learning • DSA • Java
+   - 📫 Reach me at: shivamkumarshinu985@gmail.com
+     
+⚡ Fun fact **I turn coffee into Java code ☕**
 
 ---
 
