@@ -10,22 +10,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkumar1578" alt="shivamkumar1578" /></a> </p>
 
-- 🔭 I’m currently working on [HR Analytics – Employee Attrition Analysis](https://github.com/shivamkumar1578/workforce-analytics-dashboard)
-
-- 🌱 I’m currently learning **Data Science fundamentals, SQL, Power BI, Advanced Java, DSA, and Machine Learning**
-
-- 👯 I’m looking to collaborate on [Java & Data Analytics Projects](https://github.com/shivamkumar1578/resume-analyzer)
-
-- 🤝 I’m looking for help with [Advanced SQL Queries & Data Visualization](https://github.com/shivamkumar1578/end-to-end-churn-analysis)
-
-- 👨‍💻 All of my projects are available at [https://github.com/shivamkumar1578](https://github.com/shivamkumar1578)
-
-- 📝 I regularly write articles on [Coming soon](Coming soon)
-
-- 💬 Ask me about **Java, DSA, SQL, Power BI, Excel, Data Analysis Projects**
-
-- 📫 How to reach me **shivamkumarshinu985@gmail.com**
-
+🧩 I enjoy finding order in complexity—whether it's hidden in datasets, algorithms, or real-world problems.
+   - ⚡ Bridging Data Analytics, Machine Learning, and Software Engineering to create practical solutions.
+   - 🛠️ Working with SQL, Python, Power BI, Excel, Pandas, NumPy, Java, and Data Structures & Algorithms.
+   - 📊 Interested in analytics, automation, predictive modeling, and data-driven product development.
+   - 🌱 Currently learning Advanced SQL, Machine Learning, Data Engineering, and Scalable Systems.
+   - 🤝 Open to collaborations, internships, and opportunities in Data Analytics, Data Science, and Software Development.
+   - 💬 Ask me about SQL • Python • Power BI • Excel • Pandas • Machine Learning • DSA • Java
+   - 📫 Reach me at: shivamkumarshinu985@gmail.com
 - ⚡ Fun fact **I turn coffee into Java code ☕**
 
 <h3 align="left">Connect with me:</h3>
